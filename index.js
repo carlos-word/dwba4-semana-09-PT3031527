@@ -21,7 +21,7 @@
    <div class="mySlides fade">
     <div class="numbertext">4 / 4</div>
     <img src="img3.jpg" style="width:100%">
-    <div class="text">Caption Three</div>
+    <div class="text">Caption Four</div>
   </div>
 
   <!-- Next and previous buttons -->
