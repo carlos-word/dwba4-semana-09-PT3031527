@@ -18,10 +18,17 @@
     <div class="text">Caption Three</div>
   </div>
 
-   <div class="mySlides fade">
+    <div class="mySlides fade">
     <div class="numbertext">4 / 4</div>
-    <img src="img3.jpg" style="width:100%">
-    <div class="text">Caption Four</div>
+    <h2 style="text-align:center">Conheça os desafios de inovação</h2>
+    <div style="display: flex; justify-content: center;">
+      <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/lWmz5aS2O2I" 
+        title="Desafio de Inovação" 
+        frameborder="0" 
+        allowfullscreen>
+      </iframe>
+    </div>
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
